@@ -34,9 +34,12 @@ Rekaman pertama yang telah tersimpan akan ditampilkan dengan nama "Recording 1" 
 media lain.
 
 _**More Recordings**_  
+
 <img src="https://user-images.githubusercontent.com/83486874/163529571-b9bc101f-4a30-40da-baf9-0e0499e63631.jpeg" width = "179" height = "400"/>  
 
+Untuk merekam lagi, pengguna dapat menekan tombol "Start Recording" dan aplikasi akan kembali merekam suara.
 
 
 <img src="https://user-images.githubusercontent.com/83486874/163529618-dc7a36c5-1575-40b2-9de7-cfa258451dd0.jpeg" width = "179" height = "400"/>  
 
+Setelah pengguna menekan tombol "Stop Recording", rekaman kedua akan tersimpan dan ditampilkan dengan nama "Recording 2" disertai durasi rekaman.
