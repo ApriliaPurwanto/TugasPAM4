@@ -48,7 +48,7 @@ untuk rekaman-rekaman selanjutnya.
 **Daftar Package**  
 Beberapa package yang digunakan dalam pembuatan aplikasi ini dapat dilihat pada gambar berikut.  
 
-<img src="https://user-images.githubusercontent.com/83486874/163531444-7d9604b1-2796-4cb0-b035-9a73978f6031.png" width = "192" height = "341"/>  
+<img src="https://user-images.githubusercontent.com/83486874/163531444-7d9604b1-2796-4cb0-b035-9a73978f6031.png" width = "341" height = "192"/>  
 
 
 
