@@ -43,4 +43,17 @@ Untuk merekam lagi, pengguna dapat menekan tombol "Start Recording" dan aplikasi
 <img src="https://user-images.githubusercontent.com/83486874/163529618-dc7a36c5-1575-40b2-9de7-cfa258451dd0.jpeg" width = "179" height = "400"/>  
 
 Setelah pengguna menekan tombol "Stop Recording", rekaman kedua akan tersimpan dan ditampilkan dengan nama "Recording 2" disertai durasi rekaman dan seterusnya
-untuk rekaman-rekaman selanjutnya.
+untuk rekaman-rekaman selanjutnya.  
+
+**Daftar Package**  
+Beberapa package yang digunakan dalam pembuatan aplikasi ini dapat dilihat pada gambar berikut.  
+
+<img src="https://user-images.githubusercontent.com/83486874/163531444-7d9604b1-2796-4cb0-b035-9a73978f6031.png" width = "192" height = "341"/>  
+
+
+
+**Cara Menginstall Aplikasi**  
+Aplikasi dapat diunduh pada link berikut :  
+Setelah terdownload, klik aplikasi dan pilih install. Aplikasi dapat digunakan.  
+
+**Source Code**
