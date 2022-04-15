@@ -42,4 +42,5 @@ Untuk merekam lagi, pengguna dapat menekan tombol "Start Recording" dan aplikasi
 
 <img src="https://user-images.githubusercontent.com/83486874/163529618-dc7a36c5-1575-40b2-9de7-cfa258451dd0.jpeg" width = "179" height = "400"/>  
 
-Setelah pengguna menekan tombol "Stop Recording", rekaman kedua akan tersimpan dan ditampilkan dengan nama "Recording 2" disertai durasi rekaman.
+Setelah pengguna menekan tombol "Stop Recording", rekaman kedua akan tersimpan dan ditampilkan dengan nama "Recording 2" disertai durasi rekaman dan seterusnya
+untuk rekaman-rekaman selanjutnya.
