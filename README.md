@@ -56,7 +56,7 @@ Beberapa package yang digunakan dalam pembuatan aplikasi ini dapat dilihat pada 
 Aplikasi dapat diunduh pada link berikut :  
 Setelah terdownload, klik aplikasi dan pilih install. Aplikasi dapat digunakan.  
 
-**Source Code**
+**Source Code**  
 <img src="https://user-images.githubusercontent.com/83486874/164259728-118899d1-7a57-48f2-94df-4c51bc21f0b0.JPG" width = "341" height = "192"/>  
 Variabel recording berfungsi untuk menyimpan rekaman yang direkam aplikasi. Variabel recordings berfungsi untuk menyimpan rekaman-rekaman yang telah direkam sebelumnya. Variabel message berfungsi untuk menetapkan pesan jika terjadi error. Fungsi permission berguna untuk mengatur izin aplikasi, jika statusnya “granted” maka aplikasi diperbolehkan untuk mulai recording, jika tidak maka akan muncul pesan “please grant permission to app to access microphone”. Jika terjadi error maka akan muncul pesan “failed to start recording”.
 
