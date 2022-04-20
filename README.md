@@ -53,7 +53,7 @@ Beberapa package yang digunakan dalam pembuatan aplikasi ini dapat dilihat pada 
 
 
 **Cara Menginstall Aplikasi**  
-Aplikasi dapat diunduh pada link berikut :  https://drive.google.com/drive/folders/1eImfvKvXaYOTmfU7nXxKwB4iI15IUUkg
+Aplikasi dapat diunduh pada link berikut : https://drive.google.com/drive/folders/1eImfvKvXaYOTmfU7nXxKwB4iI15IUUkg  
 Setelah terdownload, klik aplikasi dan pilih install. Aplikasi pun dapat digunakan.  
 
 **Source Code**  
