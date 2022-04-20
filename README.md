@@ -57,7 +57,7 @@ Aplikasi dapat diunduh pada link berikut : https://drive.google.com/drive/folder
 Setelah terdownload, klik aplikasi dan pilih install. Aplikasi pun dapat digunakan.  
 
 **Source Code**  
-<img src="https://user-images.githubusercontent.com/83486874/164259728-118899d1-7a57-48f2-94df-4c51bc21f0b0.JPG" width = "341" height = "192"/>  
+<img src="https://user-images.githubusercontent.com/83486874/164259728-118899d1-7a57-48f2-94df-4c51bc21f0b0.JPG" width = "391" height = "242"/>  
 Variabel recording berfungsi untuk menyimpan rekaman yang direkam aplikasi. Variabel recordings berfungsi untuk menyimpan rekaman-rekaman yang telah direkam sebelumnya. Variabel message berfungsi untuk menetapkan pesan jika terjadi error. Fungsi permission berguna untuk mengatur izin aplikasi, jika statusnya “granted” maka aplikasi diperbolehkan untuk mulai recording, jika tidak maka akan muncul pesan “please grant permission to app to access microphone”. Jika terjadi error maka akan muncul pesan “failed to start recording”.  
 
 <img src="https://user-images.githubusercontent.com/83486874/164276389-3625f68f-1a40-48f9-8a00-a9a29bd28d74.JPG" width = "341" height = "192"/>  
