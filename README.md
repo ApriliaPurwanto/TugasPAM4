@@ -60,17 +60,17 @@ Setelah terdownload, klik aplikasi dan pilih install. Aplikasi dapat digunakan.
 <img src="https://user-images.githubusercontent.com/83486874/164259728-118899d1-7a57-48f2-94df-4c51bc21f0b0.JPG" width = "341" height = "192"/>  
 Variabel recording berfungsi untuk menyimpan rekaman yang direkam aplikasi. Variabel recordings berfungsi untuk menyimpan rekaman-rekaman yang telah direkam sebelumnya. Variabel message berfungsi untuk menetapkan pesan jika terjadi error. Fungsi permission berguna untuk mengatur izin aplikasi, jika statusnya “granted” maka aplikasi diperbolehkan untuk mulai recording, jika tidak maka akan muncul pesan “please grant permission to app to access microphone”. Jika terjadi error maka akan muncul pesan “failed to start recording”.  
 
-<img src="https://user-images.githubusercontent.com/83486874/164276389-3625f68f-1a40-48f9-8a00-a9a29bd28d74.JPG" width = "341" height = "192"/>  
-Function stopRecording berfungsi untuk menghentikan recording yang sedang dilakukan dan  menambahkan hasil recording beserta detail durasinya ke setRecordings.
+<img src="https://user-images.githubusercontent.com/83486874/164276389-3625f68f-1a40-48f9-8a00-a9a29bd28d74.JPG" width = "341" height = "192"/>
+Function stopRecording berfungsi untuk menghentikan recording yang sedang dilakukan dan  menambahkan hasil recording beserta detail durasinya ke setRecordings.  
 
-<img src="https://user-images.githubusercontent.com/83486874/164276427-de8b032f-5c32-417b-9dc8-cbbb89273148.JPG" width = "341" height = "192"/>  
-Function getDurationFormatted berfungsi menampilkan durasi recordings dalam format menit dan detik.
+<img src="https://user-images.githubusercontent.com/83486874/164276427-de8b032f-5c32-417b-9dc8-cbbb89273148.JPG" width = "341" height = "192"/>
+Function getDurationFormatted berfungsi menampilkan durasi recordings dalam format menit dan detik.  
 
-<img src="https://user-images.githubusercontent.com/83486874/164276448-32b340fe-f35f-48a7-88a0-b4df65afcc05.JPG" width = "341" height = "192"/>  
-Function getRecordingLines berfungsi untuk menampilkan nama Recording index + 1 sesuai urutan recordingnya. Lalu terdapat dua tombol yang pertama tombol “Play” untuk memainkan hasil recording dan yang kedua tombol “Share” untuk membagikan recording ke media lain.
+<img src="https://user-images.githubusercontent.com/83486874/164276448-32b340fe-f35f-48a7-88a0-b4df65afcc05.JPG" width = "341" height = "192"/>
+Function getRecordingLines berfungsi untuk menampilkan nama Recording index + 1 sesuai urutan recordingnya. Lalu terdapat dua tombol yang pertama tombol “Play” untuk memainkan hasil recording dan yang kedua tombol “Share” untuk membagikan recording ke media lain.  
 
-<img src="https://user-images.githubusercontent.com/83486874/164276479-e995b018-04a7-4218-af4d-c49f36c7c5ea.JPG" width = "341" height = "192"/>  
-Pada laman aplikasi, terdapat judul nama aplikasi yaitu “Voice Recording” di bawahnya copyright “by Aprilia Purwanto 119140003”. Lalu, terdapat tombol recording dibuat dengan touchable opacity bertuliskan “Start Recording”, ketika diklik maka tulisan di tombol akan berubah menjadi “Stop Recording” untuk menghentikan recording.
+<img src="https://user-images.githubusercontent.com/83486874/164276479-e995b018-04a7-4218-af4d-c49f36c7c5ea.JPG" width = "341" height = "192"/>
+Pada laman aplikasi, terdapat judul nama aplikasi yaitu “Voice Recording” di bawahnya copyright “by Aprilia Purwanto 119140003”. Lalu, terdapat tombol recording dibuat dengan touchable opacity bertuliskan “Start Recording”, ketika diklik maka tulisan di tombol akan berubah menjadi “Stop Recording” untuk menghentikan recording.  
 
-<img src="https://user-images.githubusercontent.com/83486874/164276511-5e4530d4-931c-45ab-be09-8267670225ea.JPG" width = "341" height = "192"/>  
-Di atas merupakan potongan kode untuk style yang digunakan dalam pembuatan aplikasi.
+<img src="https://user-images.githubusercontent.com/83486874/164276511-5e4530d4-931c-45ab-be09-8267670225ea.JPG" width = "341" height = "192"/>
+Di atas merupakan potongan kode untuk style yang digunakan dalam pembuatan aplikasi.  
