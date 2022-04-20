@@ -76,5 +76,5 @@ Function getRecordingLines berfungsi untuk menampilkan nama Recording index + 1 
 Pada laman aplikasi, terdapat judul nama aplikasi yaitu “Voice Recording” di bawahnya copyright “by Aprilia Purwanto 119140003”. Lalu, terdapat tombol recording dibuat dengan touchable opacity bertuliskan “Start Recording”, ketika diklik maka tulisan di tombol akan berubah menjadi “Stop Recording” untuk menghentikan recording.  
 
 
-<img src="https://user-images.githubusercontent.com/83486874/164276511-5e4530d4-931c-45ab-be09-8267670225ea.JPG" width = "391" height = "392"/>  
+<img src="https://user-images.githubusercontent.com/83486874/164276511-5e4530d4-931c-45ab-be09-8267670225ea.JPG" width = "391" height = "472"/>  
 Di atas merupakan potongan kode untuk style yang digunakan dalam pembuatan aplikasi.  
